@@ -15,6 +15,15 @@ Single source of truth for CAPIO marketing art direction. Supersedes overlapping
 **Creative Director:** buyer problem and takeaway, select art direction appropriate to the story, vary crop/composition, increase commercial appeal, avoid repetitive production.
 **Production and QA:** use original assets and real type in an editable Figma/Canva/SVG/HTML renderer, export exact sizes, verify copy and contrast, package alternatives and captions, maintain release gate.
 
+## Visual storytelling: icons and pictures (founder feedback 8 Nov 2026)
+- Clean ≠ empty: every cover should have a meaningful visual anchor covering roughly 25–45% of composition, unless evidence-led typography is stronger.
+- Use context-specific, high-quality editorial illustrations, licensed/authentic pictures, simplified system diagrams, interface fragments, or small consistent iconography. Icons must encode a real concept and avoid ornament.
+- Prefer one hero picture/diagram plus 1–3 small supporting icons over repetitive icon-grid cards. Use editorial photography for decision-makers and technology architecture; light illustrative treatment for public WhatsApp awareness.
+- Examples by topic: data breach → data-flow disruption, response sequence with restrained incident/containment icons; ISO risk assessment → risk matrix, asset-to-threat links, documentary evidence photo; web/mobile/API → differentiated browser, phone and API architecture diagrams; pentest quotation → annotated scope brief/checklist and procurement-relevant pictograms.
+- Compose visually entertaining but enterprise-credible covers: stronger scale contrast, relevant imagery, editorial layering, intentional whitespace; avoid plastic 3D, oversaturation, and exaggerated AI glow.
+- Ensure any AI-generated illustrative graphic is separated from final typography, authentic CAPIO logo and verified facts. In final editable artwork, assemble text and true logo in renderer.
+- Never create a generic 'Creative Studio next week plan' graphic when requested artwork is the four scheduled Content Calendar posts (9, 11, 13, 14 November 2026). The current week's specific topics and dates always override generic plan imagery.
+
 ## Formats / creative rotation
 - Instagram 1080×1350px (4:5), 1–5 carousel slides only when necessary. Lead with decisive plain-Bahasa hook; not everything needs four slides.
 - WhatsApp Status 1080×1920, single-page, concise/public-friendly language; illustrated or art-directed photography when appropriate, not always cartoon and not photorealistic-AI-looking. CTA must fit one screen.
